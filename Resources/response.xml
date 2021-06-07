@@ -1,0 +1,31 @@
+﻿<Chatresponse>
+    <Feeling>
+        <Response id="1"> How are you Feeling today </Response >
+
+        </Feeling>
+        <Start_Activity_Now>
+            <Response id= "1">Great!!! Let Me Know when you Complete the Activity!!! </Response>
+        </Start_Activity_Now>
+        <Remind_me_later>
+            <Response id="1"> You threw a Boomerang with a timer . Be Ready to catch at </Response >
+            <Response id="2">Missile to be launched at </Response>
+            <Response id="3">Timer set to start the activity. please be ready to start the activity at  </Response>
+            
+        </Remind_me_later>
+
+        <Completed>
+                <Response id="1">Perfect! </Response >
+                <Response id="2">Thanks, this is exactly what I was looking for. </Response>
+                <Response id="3">Wonderful, this is more than I expected. </Response>
+                <Response id="4">This is so great I don’t need to make any revisions to it at all. </Response>
+                <Response id="5">Well done—and ahead of deadline too! </Response>
+                <Response id="6">You are so creative—I always love getting your perspective on things. </Response>
+                <Response id="7">You consistently bring your all and I truly appreciate that. </Response>
+                <Response id="8">You set a high bar with this one. </Response>
+                <Response id="9">Outstanding work! </Response>
+                <Response id="10">This is truly above and beyond. </Response>
+                <Response id="11"> Sweet!! That’s How a champion Works. </Response>
+            </Completed>
+        
+</Chatresponse>
+

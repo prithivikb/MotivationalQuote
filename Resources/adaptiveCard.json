@@ -1,0 +1,17 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "backgroundImage": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/SolitaireWin10/dev/adapative_card_assets/v1/card_background.png",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "\"When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me.  Erma Bombeck",
+      "color": "light",
+      "weight": "bolder",
+      "wrap": true,
+      "size": "default",
+      "horizontalAlignment": "center"
+    }
+  ]
+}
