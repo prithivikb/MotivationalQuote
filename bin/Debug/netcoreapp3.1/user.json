@@ -1,0 +1,12 @@
+﻿[
+  {
+    "UserName": "Prithivi",
+    "Occupation": "Student",
+    
+    "Trigger": {
+      "Sports": "05:00 PM",
+      "Fitness": "06:00 AM",
+      "Study": "11:00 PM"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "backgroundImage": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/SolitaireWin10/dev/adapative_card_assets/v1/card_background.png",
+  "body": [
+    {
+      "type": "Image",
+      "url": "C:\\Users\\kbpri\\source\\repos\\botbuilder-samples\\samples\\csharp_dotnetcore\\06.using-cards\\Resources\\bot images\\6.jpeg",
+      "size": "stretch"
+    }
+  ]
+}
